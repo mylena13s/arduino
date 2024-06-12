@@ -1,17 +1,13 @@
-# Lamp Control with Arduino
+# Controle de Lâmpada com Arduino
 
-## 🛠️ Components
+_Componentes:_
 
-| Component         | Description          |
-|--------------------|--------------------|
-| Arduino Uno R3      | Arduino microcontroller board          |
-| Lamp             | Lamp for control            |
-| 9V Battery         | Power source for Arduino            |
-| SPDT Relay          | Single Pole Double Throw relay module            |
-| LCD 16x2           | Liquid Crystal Display            |
+1. **Arduino Uno R3**: Placa microcontroladora Arduino
+2. **Lâmpada**: Lâmpada para controle
+3. **Bateria de 9V**: Fonte de energia para o Arduino
+4. **Relé SPDT**: Módulo de relé de Polo Simples e Dupla Tração
+5. **LCD 16x2**: Display de Cristal Líquido
 
-## 🚀 Demonstration
-<img src="https://i.imgur.com/jpQPFU2.gif" width="300">
 
 
 
